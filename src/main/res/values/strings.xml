@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="search_item">search_item</string>
+    <string name="about_item">about_item</string>
+    <string name="copyright_name">© 2017, Ganesh Mahesh</string>
+    <string name="version_number">Version 1.0</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+    <string name="google_content">google</string>
+    <string name="content_youtube">youtube</string>
+    <string name="content_twitter">twitter</string>
+    <string name="content_facebook">facebook</string>
+    <string name="content_official_image">Official image</string>
+    <string name="content_noimage">no image</string>
+    <string name="imageview">ImageView</string>
+</resources>

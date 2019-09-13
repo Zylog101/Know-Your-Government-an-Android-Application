@@ -6,4 +6,4 @@ The Google Civic Information API will be used to acquire the government official
 
 **Overview:**
 
-![image]()
+![image](https://github.com/Zylog101/Know-Your-Government-an-Android-Application/blob/master/Image/KYGApp.JPG)
